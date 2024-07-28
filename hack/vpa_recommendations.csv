@@ -1,0 +1,10 @@
+NAMESPACE,VPA_NAME,CONTAINER_NAME,LOWER_BOUND_CPU,LOWER_BOUND_MEM,TARGET_CPU,TARGET_MEM,UNCAPPED_TARGET_CPU,UNCAPPED_TARGET_MEM,UPPER_BOUND_CPU,UPPER_BOUND_MEM
+majid,goldilocks-6-1684270006-controller-vpa,"goldilocks","25m","262144k","25m","262144k","25m","262144k","25m","262144k"
+majid,goldilocks-6-1684270006-dashboard-vpa,"goldilocks","25m","262144k","25m","262144k","25m","262144k","25m","262144k"
+majid,goldilocks-goldilocks-6-1684270006-controller,"goldilocks","25m","262144k","25m","262144k","25m","262144k","25m","262144k"
+majid,goldilocks-goldilocks-6-1684270006-dashboard,"goldilocks","25m","262144k","25m","262144k","25m","262144k","25m","262144k"
+majid,goldilocks-test-app-0-1684264944,"test-app","25m","262144k","25m","262144k","25m","262144k","25m","262144k"
+majid,goldilocks-test-app-0-1684264944-postgresql-ha-pgpool,"pgpool","125m","12961177211","203m","12965919539","203m","12965919539","292m","15337734088"
+majid,goldilocks-test-app-0-1684264944-postgresql-ha-postgresql,"postgresql","34m","262144k","78m","262144k","78m","262144k","109m","262144k"
+majid,test-app-0-1684264944-postgresql-ha-pgpool-vpa,"pgpool","125m","12961177211","203m","12965919539","203m","12965919539","292m","15337734088"
+majid,test-app-0-1684264944-vpa,"test-app","25m","262144k","25m","262144k","25m","262144k","25m","262144k"
